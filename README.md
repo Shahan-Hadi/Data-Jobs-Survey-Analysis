@@ -11,4 +11,4 @@ This project is based on a real survey of limited people and features interactiv
 4. Average yearly salary by favourite programing language
 
 # Data Job Survey
-![Data-Jobs-Survey-Analysis 23-Jul-24 11_11_53 AM](https://github.com/user-attachments/assets/a58d367e-6093-41ce-b87b-3fb8e0101615)
+![Data-Jobs-Survey-Analysis 27-Jul-24 10_02_59 PM](https://github.com/user-attachments/assets/a58d367e-6093-41ce-b87b-3fb8e0101615)
